@@ -1,3 +1,3 @@
 # Databricks notebook source
 # MAGIC %sql
-# MAGIC SELECT * FROM diamonds;
+# MAGIC DESCRIBE HISTORY'2022-01-01'; 
